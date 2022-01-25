@@ -1,1 +1,5 @@
-console.log("hello world");
+const data = () => {
+  return 'gola';
+};
+
+data();
